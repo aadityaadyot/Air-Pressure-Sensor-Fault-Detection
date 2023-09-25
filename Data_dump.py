@@ -19,4 +19,5 @@ if __name__ == "__main__":
     #print(json_record[0])
 
     #insert coverted record into MongoDB
+    
     client[Database_name][Collection_name].insert_many(json_record)
