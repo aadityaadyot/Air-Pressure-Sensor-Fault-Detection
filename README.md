@@ -20,3 +20,13 @@ python main.py
 git --version
 ```
 
+<<<<<<< HEAD
+=======
+### To Download the dataset
+```
+https://github.com/yadav-avnish/aps-fault-detection/blob/main/aps_failure_training_set1.csv
+```
+
+###
+
+>>>>>>> 27219602bd73d858298e79361c0aec0380615721

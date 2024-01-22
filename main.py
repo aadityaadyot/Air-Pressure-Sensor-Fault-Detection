@@ -1,4 +1,8 @@
 import pymongo
+<<<<<<< HEAD
+=======
+import pandas as pd
+>>>>>>> 27219602bd73d858298e79361c0aec0380615721
 
 # Provide the mongodb localhost url to connect python to mongodb.
 client = pymongo.MongoClient("mongodb://localhost:27017/labDB")
